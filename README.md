@@ -54,12 +54,6 @@ LinkedIn: [Cognifyz Technologies](https://www.linkedin.com/company/cognifyz-tech
 
 ---
 
-## 📸 Screenshots & Demo
-
-> Include screenshots or a short demo video (hosted on LinkedIn or YouTube) demonstrating the dashboard and key insights here.
-
----
-
 ## 🚀 How to Run
 
 1. Open the `.pbix` file in Power BI Desktop.
